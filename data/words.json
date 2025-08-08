@@ -13,10 +13,34 @@
     },
     {
         "word": "arrecho",
-        "hint": "enojado, sorprendido"
+        "hint": "enojado, molesto"
     },
     {
         "word": "vaina",
         "hint": "cosa, asunto"
+    },
+    {
+        "word": "chévere",
+        "hint": "genial, excelente"
+    },
+    {
+        "word": "maracucho",
+        "hint": "persona de Maracaibo"
+    },
+    {
+        "word": "arepa",
+        "hint": "tortilla redonda de maíz"
+    },
+    {
+        "word": "pabellón",
+        "hint": "plato típico con carne, caraotas y arroz"
+    },
+    {
+        "word": "chicha",
+        "hint": "bebida dulce de pasta o arroz"
+    },
+    {
+        "word": "tizana",
+        "hint": "bebida de frutas"
     }
 ]
