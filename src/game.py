@@ -10,7 +10,7 @@ class Game:
 
     def play(self):
         score = 0
-        rounds = 3
+        rounds = len(self.words)
         for _ in range(rounds):
             word_data = random.choice(self.words)
             word = word_data['word']
