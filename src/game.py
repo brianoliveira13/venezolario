@@ -11,8 +11,9 @@ class Game:
     def play(self):
         score = 0
         rounds = len(self.words)
-        for _ in range(rounds):
-            word_data = random.choice(self.words)
+        words_pool = random.sample(self.words, rounds)
+
+        for word_data in words_pool:
             word = word_data['word']
             hint = word_data['hint']
             print(f'Pista: {hint}')
