@@ -26,4 +26,6 @@ Puedes agregar tus propias palabras editando el archivo `data/words.json`
     "hint": "pista correspondiente"
 }
 ```
+
+tarea jajaja
   
